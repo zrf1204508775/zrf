@@ -1,0 +1,19 @@
+.swiper-container {
+	margin-top: 20px;
+    width: 100%;
+	min-width: 1200px;
+    height: 400px;
+	overflow: hidden;
+}
+.swiper-container .swiper-slide img{
+	width: 100%;
+	height: 100%;
+}
+.swiper-pagination-bullet{
+	border: 2px solid #ddd;
+	opacity: 1;
+	background-color: white;
+}
+.swiper-pagination-bullet-active{
+	background-color: dodgerblue;
+}
